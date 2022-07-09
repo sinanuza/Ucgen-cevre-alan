@@ -4,8 +4,8 @@ www.patika.dev
 
 import java.util.Scanner;
 
-public class hipotenus {
-    public static void main(String[] args) {
+        public class hipotenus {
+        public static void main(String[] args) {
         double a,b,c,cevre,alan,kök,u;
         System.out.println("ucgenin birinci kenarini giriniz.");
         Scanner a2=new Scanner(System.in);
